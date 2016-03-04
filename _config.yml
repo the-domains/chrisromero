@@ -1,4 +1,4 @@
-name: ChrisRomero
+name: Photography by Chris Romero
 favicon: null
 layout_spectrum: 0.8162170320283622
 typography_spectrum: 0.6782065790612251
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#020200'
+    - '#ffffff'
+    - '#555754'
+    - '#747f85'
+    - '#adafae'
   brandStrength: 0.832527450285852
   lightness: 0.8184933005832136
   saturation: 0.3435706663876772
