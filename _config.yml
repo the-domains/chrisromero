@@ -1,29 +1,41 @@
-name: Photography by Chris Romero
-favicon: null
-layout_spectrum: 0.8162170320283622
-typography_spectrum: 0.55426
 title: Photography from the Source by Chris Romero
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.7728249
+  brandStrength: 0.832527450285852
+  lightness: 0.6815252
+  brandColors:
+    - '#050404'
+    - '#6FCEFF'
+    - '#A4774A'
+    - '#FFD8A2'
+    - '#FFFF20'
+  rhythmicContrast: 0.8007519
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Photography by Chris Romero
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#020200'
-    - '#ffffff'
-    - '#555754'
-    - '#747f85'
-    - '#adafae'
-  brandStrength: 0.832527450285852
-  lightness: 0.8184933005832136
-  saturation: 0.3435706663876772
-  rhythmicContrast: 0.22608785214833915
-purpose: []
+typography_spectrum: 0.8523093
+layout_spectrum: 1
